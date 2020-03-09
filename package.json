@@ -1,0 +1,13 @@
+{
+  "name": "r-04-02-web-server",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Lori Lewis",
+  "license": "MIT",
+  "dependencies": {
+    "babel-preset-react": "^7.0.0-beta.3"
+  },
+  "devDependencies": {
+    "@babel/preset-env": "^7.8.7"
+  }
+}
